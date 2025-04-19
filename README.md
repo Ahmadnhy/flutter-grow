@@ -1,16 +1,11 @@
-# first
+- membuat halaman login dan profil
 
-A new Flutter project.
+- pada halaman login
+terdapat 2 inputan, email dan password
+terdapat 1 button, login
 
-## Getting Started
+- pada halaman profil ada button ganti backgorund color
 
-This project is a starting point for a Flutter application.
+setelah inputkan email lalu tekan login menuju halaman profil dengan email yang sudah diinputkan
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+pada halaman profil ada tombol ganti background, saat di klik , warna background berubah , warna boleh bebas
